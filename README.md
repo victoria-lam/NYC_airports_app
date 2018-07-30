@@ -17,4 +17,4 @@ New York City is a popular tourist destination for travelers around the world an
 - Heroku (app deployment)
 
 ### Deployed app can be viewed on https://nyc-air.herokuapp.com/
-![Website demo](static/website.mp4)
+![Website demo](static/website_demo.gif)
